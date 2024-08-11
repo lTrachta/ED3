@@ -1,3 +1,3 @@
 # ED3
 
-## receta
+## Ejercicios Digital 3
